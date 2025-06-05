@@ -1,0 +1,24 @@
+Agente: Buenas tardes, bienvenido al servicio de atención al cliente de TecnoRed. ¿Con quién tengo el gusto de hablar?
+Cliente: Buenas tardes, mi nombre es Laura Ramírez. Quería consultar sobre un problema con mi conexión a internet.
+Agente: Encantado, Laura. ¿Podría indicarme su número de cliente o cédula para verificar su cuenta?
+Cliente: Claro, es 12345678.
+Agente: Gracias. Un momento mientras reviso sus datos... Ya tengo su cuenta. ¿Podría contarme cuál es el inconveniente?
+Cliente: Desde hace dos días mi conexión va muy lenta, no puedo ver videos ni trabajar bien.
+Agente: Comprendo. Verifiquemos el estado de su línea... (pausa) No detecto cortes, pero hay una saturación en su zona.
+Cliente: ¿Y eso qué significa?
+Agente: Que hay alta demanda de usuarios en su área, lo que puede afectar la velocidad.
+Cliente: Pero esto no pasaba antes. ¿Van a arreglarlo?
+Agente: Se están evaluando mejoras en la infraestructura, pero aún no tenemos una fecha definida.
+Cliente: Entiendo... pero no es muy útil esa respuesta, ¿no tienen una solución temporal?
+Agente: Podemos reiniciar su router desde aquí y monitorear la velocidad por 24 horas.
+Cliente: Bueno, hagámoslo.
+Agente: De acuerdo. Procediendo al reinicio remoto... Listo, el equipo se reiniciará en 2 minutos.
+Cliente: Gracias. ¿Algo más que pueda hacer?
+Agente: Evitar el uso simultáneo de varios dispositivos podría ayudar. Le recomiendo también realizar un test de velocidad.
+Cliente: Está bien, lo haré.
+Agente: ¿Desea que le enviemos el reporte por correo?
+Cliente: Sí, por favor, a laura.ramirez@gmail.com.
+Agente: Listo, fue enviado. ¿Algo más en lo que pueda ayudarla hoy?
+Cliente: No, eso sería todo. Gracias.
+Agente: Gracias a usted por comunicarse con TecnoRed. Que tenga buena tarde.
+Cliente: Igualmente.

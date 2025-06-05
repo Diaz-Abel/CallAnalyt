@@ -1,0 +1,23 @@
+
+# Entorno virtual
+venv/
+env/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de salida
+outputs/
+
+# Archivos de audio generados
+audio/*.mp3
+audio/*.wav
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo 

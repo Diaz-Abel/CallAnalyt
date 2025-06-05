@@ -1,0 +1,1222 @@
+{
+  "buenas": {
+    "puntaje": 1,
+    "token": "SALUDO"
+  },
+  "tardes": {
+    "puntaje": 1,
+    "token": "SALUDO"
+  },
+  "bienvenido": {
+    "puntaje": 2,
+    "token": "SALUDO"
+  },
+  "al": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "servicio": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "de": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "atención": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "cliente": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "tecnored": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "con": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "quien": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "tengo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "el": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "gusto": {
+    "puntaje": 2,
+    "token": "SALUDO"
+  },
+  "hablar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "mi": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "nombre": {
+    "puntaje": 1,
+    "token": "IDENTIFICACION"
+  },
+  "es": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "ramírez": {
+    "puntaje": 1,
+    "token": "IDENTIFICACION"
+  },
+  "quería": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "consultar": {
+    "puntaje": 1,
+    "token": "CONSULTA"
+  },
+  "sobre": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "un": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "problema": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "conexión": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "a": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "internet": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "encantado": {
+    "puntaje": 2,
+    "token": "SALUDO"
+  },
+  "podría": {
+    "puntaje": 1,
+    "token": "CONSULTA"
+  },
+  "indicarme": {
+    "puntaje": 1,
+    "token": "CONSULTA"
+  },
+  "su": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "número": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "o": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "cédula": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "para": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "verificar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "cuenta": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "claro": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "12345678": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "gracias": {
+    "puntaje": 2,
+    "token": "DESPEDIDA"
+  },
+  "momento": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "mientras": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "reviso": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "sus": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "datos": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "ya": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "contarme": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "cuál": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "inconveniente": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "desde": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "hace": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "dos": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "días": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "va": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "muy": {
+    "puntaje": -1,
+    "token": "OTRO"
+  },
+  "lenta": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "no": {
+    "puntaje": -1,
+    "token": "OTRO"
+  },
+  "puedo": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "ver": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "videos": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "ni": {
+    "puntaje": -1,
+    "token": "OTRO"
+  },
+  "trabajar": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "bien": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "comprendo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "verifiquemos": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "estado": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "línea": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "detecto": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "cortes": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "pero": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "hay": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "una": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "saturación": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "en": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "zona": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "y": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "eso": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "qué": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "significa": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "que": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "alta": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "demanda": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "usuarios": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "área": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "lo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "puede": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "afectar": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "la": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "velocidad": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "esto": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "pasaba": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "antes": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "van": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "arreglarlo": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "se": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "están": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "evaluando": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "mejoras": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "infraestructura": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "aún": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "tenemos": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "fecha": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "definida": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "entiendo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "útil": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "esa": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "respuesta": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "tienen": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "solución": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "temporal": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "podemos": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "reiniciar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "router": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "aquí": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "monitorear": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "por": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "24": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "h": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "bueno": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "hagámoslo": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "acuerdo": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "procediendo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "reinicio": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "remoto": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "listo": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "equipo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "reiniciará": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "2": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "min": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "algo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "más": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "pueda": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "hacer": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "evitar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "uso": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "simultáneo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "varios": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "dispositivos": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "ayudar": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "le": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "recomiendo": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "también": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "realizar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "test": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "está": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "haré": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "desea": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "enviemos": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "reporte": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "correo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "sí": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "favor": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "ramirezmail": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "com": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "fue": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "enviado": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "ayudarla": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "hoy": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "sería": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "todo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "usted": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "comunicarse": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "tenga": {
+    "puntaje": 1,
+    "token": "DESPEDIDA"
+  },
+  "buena": {
+    "puntaje": 1,
+    "token": "DESPEDIDA"
+  },
+  "tarde": {
+    "puntaje": 1,
+    "token": "DESPEDIDA"
+  },
+  "igualmente": {
+    "puntaje": 2,
+    "token": "DESPEDIDA"
+  },
+  "quién": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "hola": {
+    "puntaje": 1,
+    "token": "SALUDO"
+  },
+  "soy": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "alicia": {
+    "puntaje": 1,
+    "token": "IDENTIFICACION"
+  },
+  "gómez": {
+    "puntaje": 1,
+    "token": "IDENTIFICACION"
+  },
+  "llevo": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "semana": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "sin": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "nadie": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "me": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "da": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "lamento": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "mucho": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "sucedido": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "brindarme": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "he": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "dicho": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "llamadas": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "anteriores": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "24681012": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "revisando": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "veo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "hubo": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "corte": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "programado": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "mantenimiento": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "les": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "parece": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "normal": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "molestia": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "según": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "sistema": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "debió": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "restablecerse": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "viene": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "llama": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "solo": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "dan": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "excusas": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "agendar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "visita": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "técnica": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "mañana": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "dijeron": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "lunes": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "vino": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "hayan": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "asistido": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "registraré": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "formal": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "marcaré": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "caso": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "como": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "urgente": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "registré": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "tres": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "quejas": {
+    "puntaje": -3,
+    "token": "CONSULTA"
+  },
+  "sirven": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "nada": {
+    "puntaje": -3,
+    "token": "CONSULTA"
+  },
+  "transfiera": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "supervisor": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "si": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "cortan": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "llamada": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "transferiré": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "ahora": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "mismo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "espere": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "espero": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "menos": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "resuelvan": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "desastre": {
+    "puntaje": -3,
+    "token": "CONSULTA"
+  },
+  "buen": {
+    "puntaje": 1,
+    "token": "DESPEDIDA"
+  },
+  "día": {
+    "puntaje": 1,
+    "token": "DESPEDIDA"
+  },
+  "soporte": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "técnico": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "smartline": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "carlota": {
+    "puntaje": 1,
+    "token": "IDENTIFICACION"
+  },
+  "llamo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "porque": {
+    "puntaje": 0,
+    "token": "CONSULTA"
+  },
+  "problemas": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "acceder": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "ayudo": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "marcelo": {
+    "puntaje": 1,
+    "token": "IDENTIFICACION"
+  },
+  "98765432": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "accedo": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "tipo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "tiene": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "aparece": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "error": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "ingresar": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "dice": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "contraseña": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "incorrecta": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "estoy": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "seguro": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "correcta": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "comprendido": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "intento": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "fallido": {
+    "puntaje": -2,
+    "token": "CONSULTA"
+  },
+  "reciente": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "restablecer": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "necesito": {
+    "puntaje": -1,
+    "token": "CONSULTA"
+  },
+  "confirmar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "registrado": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "duartemail": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "correcto": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "ese": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "perfecto": {
+    "puntaje": 3,
+    "token": "OTRO"
+  },
+  "acabo": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "enviarle": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "enlace": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "crear": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "nueva": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "recibí": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "cuando": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "termine": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "proceso": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "intente": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "nuevamente": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "funciona": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "excelente": {
+    "puntaje": 3,
+    "token": "OTRO"
+  },
+  "envíe": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "recomendaciones": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "seguridad": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "enviar": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "documento": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "sugerencias": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "ayudarle": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "alegra": {
+    "puntaje": 2,
+    "token": "OTRO"
+  },
+  "escuchar": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "contactarnos": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "gran": {
+    "puntaje": 1,
+    "token": "OTRO"
+  },
+  "muchas": {
+    "puntaje": 2,
+    "token": "DESPEDIDA"
+  },
+  "queja": {
+    "puntaje": -2,
+    "token": "PALABRA_PROHIBIDA"
+  },
+  "aura": {
+    "puntaje": 1,
+    "token": "IDENTIFICACION"
+  },
+  "Laura": {
+    "puntaje": 0,
+    "token": "OTRO"
+  },
+  "laura": {
+    "puntaje": 0,
+    "token": "IDENTIFICACION"
+  },
+  "netcom": {
+    "puntaje": 0,
+    "token": "OTRO"
+  }
+}

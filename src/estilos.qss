@@ -1,0 +1,140 @@
+/* Estilo tipo oficina/corporativo mejorado */
+QWidget {
+    background: #e9ecef;
+    color: #222;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    font-size: 16px;
+}
+QLabel, QLabel#tituloApp {
+    color: #1a237e;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+QLabel#subtituloApp {
+    color: #5c6bc0;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 18px;
+}
+QPushButton {
+    background: #e3eafc;
+    color: #1a237e;
+    border: 1px solid #b0bec5;
+    border-radius: 6px;
+    padding: 8px 20px;
+    font-weight: 500;
+}
+QPushButton#btnVolver {
+    min-width: 28px;
+    min-height: 28px;
+    max-width: 28px;
+    max-height: 28px;
+    font-size: 18px;
+    background: #e3eafc;
+    color: #1a237e;
+    border: 1.5px solid #b0bec5;
+    border-radius: 14px;
+    padding: 0;
+}
+QPushButton#btnVolver:hover {
+    background: #bbdefb;
+    color: #0d47a1;
+    border: 1.5px solid #90caf9;
+}
+QPushButton:hover {
+    background: #bbdefb;
+    color: #0d47a1;
+    border: 1px solid #90caf9;
+}
+QPushButton:pressed {
+    background: #90caf9;
+    color: #0d47a1;
+}
+QTextEdit {
+    background: #fff;
+    color: #222;
+    border-radius: 8px;
+    border: 1px solid #b0bec5;
+    font-size: 16px;
+    padding: 14px;
+}
+QTableWidget {
+    background: #f5f7fa;
+    color: #222;
+    border-radius: 12px;
+    border: 1.5px solid #b0bec5;
+    font-size: 16px;
+    gridline-color: #b0bec5;
+    selection-background-color: #90caf9;
+    selection-color: #1a237e;
+}
+QHeaderView::section {
+    background: #e3eafc;
+    color: #1a237e;
+    border: none;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 8px 8px 0 0;
+    padding: 6px;
+}
+QDialog {
+    background: #e9ecef;
+    border-radius: 12px;
+}
+QProgressBar {
+    background: #e3eafc;
+    border-radius: 8px;
+    height: 18px;
+    border: 1px solid #b0bec5;
+}
+QProgressBar::chunk {
+    background: #1976d2;
+    border-radius: 8px;
+}
+QTableWidget QTableCornerButton::section {
+    background: #e3eafc;
+    border-radius: 8px 0 0 0;
+}
+/* Colores para estados */
+.success {
+    color: #388e3c;
+}
+.error {
+    color: #d32f2f;
+}
+.warning {
+    color: #fbc02d;
+}
+/* Resumen compacto en el diálogo */
+#resumenDialogo, #protocoloDialogo {
+    font-size: 15px;
+    padding: 8px;
+    line-height: 1.4;
+}
+.palabra-prohibida {
+    color: #d32f2f;
+    font-weight: bold;
+}
+/* Estilo para el título pequeño en análisis */
+QLabel#tituloAnalisis {
+    color: #5c6bc0;
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+/* Estilo para el nombre del audio grande */
+QLabel#audioNombre {
+    color: #1a237e;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+QTableWidget::item:selected:active {
+    background: #90caf9;
+    color: #1a237e;
+}
+QTableWidget::item:selected:!active {
+    background: #90caf9;
+    color: #1a237e;
+} 

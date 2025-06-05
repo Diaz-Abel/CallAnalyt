@@ -1,0 +1,20 @@
+Agente: Buen día, bienvenido a Soporte Técnico de SmartLine. ¿Con quién tengo el gusto de hablar?
+Cliente: Buen día, soy Carlota. Llamo porque tengo problemas para acceder a mi cuenta.
+Agente: Con gusto le ayudo, Marcelo. ¿Podría brindarme su número de cliente?
+Cliente: Es el 98765432.
+Agente: Gracias. Un momento mientras accedo a sus datos… Listo. ¿Qué tipo de problema tiene?
+Cliente: Me aparece un error al ingresar, dice que la contraseña es incorrecta, pero estoy seguro de que es la correcta.
+Agente: Comprendido. Veo que hay un intento fallido reciente. Podemos restablecer su contraseña.
+Cliente: ¿Necesito algo para eso?
+Agente: Solo confirmar su correo registrado: marcelo.duarte@gmail.com, ¿es correcto?
+Cliente: Sí, ese mismo.
+Agente: Perfecto. Acabo de enviarle un enlace para crear una nueva contraseña.
+Cliente: Ya lo recibí, gracias.
+Agente: Cuando termine el proceso, intente ingresar nuevamente.
+Cliente: Listo… ¡Ahora funciona!
+Agente: ¡Excelente! ¿Desea que le envíe recomendaciones de seguridad para su cuenta?
+Cliente: Sí, por favor.
+Agente: Le acabo de enviar un documento con sugerencias. ¿Hay algo más en lo que pueda ayudarle?
+Cliente: No, todo perfecto. Muy buena atención.
+Agente: Me alegra escuchar eso, Marcelo. Gracias por contactarnos. ¡Que tenga un gran día!
+Cliente: Igualmente, muchas gracias.

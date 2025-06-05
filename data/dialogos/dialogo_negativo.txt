@@ -1,0 +1,16 @@
+Agente: Buenas tardes, gracias por comunicarse con NetCom. ¿Con quién tengo el gusto de hablar?
+Cliente: Hola, soy Alicia Gómez. Llevo una semana sin servicio y nadie me da una solución.
+Agente: Lamento mucho lo sucedido. ¿Podría brindarme su número de cliente?
+Cliente: Ya lo he dicho en llamadas anteriores, pero está bien: 24681012.
+Agente: Gracias. Revisando su cuenta... Veo que hubo un corte programado por mantenimiento.
+Cliente: ¿Una semana de corte por mantenimiento? ¿Eso les parece normal?
+Agente: Entiendo su molestia. Según el sistema, el servicio debió restablecerse hace dos días.
+Cliente: ¡Pero no lo está! Y nadie viene, nadie llama, y solo me dan excusas.
+Agente: ¿Podemos agendar una visita técnica para mañana?
+Cliente: ¡Eso ya me dijeron el lunes y no vino nadie!
+Agente: Lamento que no hayan asistido. Registraré una queja formal y marcaré el caso como urgente.
+Cliente: Ya registré tres quejas. No sirven de nada.
+Agente: Lo entiendo. ¿Desea que le transfiera con un supervisor?
+Cliente: Claro, si es que no me cortan la llamada como antes.
+Agente: Lo lamento mucho. Transferiré ahora mismo… Espere en línea, por favor.
+Cliente: Espero que al menos ahora me resuelvan algo. Esto es un desastre.
