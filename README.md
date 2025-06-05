@@ -121,7 +121,7 @@ ASSEMBLY_API_KEY = "tu_api_key_de_assemblyai"
 
 ### 🎬 ¡Listo para usar!
 ```bash
-python src/gui.py
+python -m src.gui
 ```
 
 ---
